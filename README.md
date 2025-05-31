@@ -1,1 +1,1 @@
-# otus_curs_go
+# otus_curs_go + github
